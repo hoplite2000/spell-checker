@@ -1,0 +1,24 @@
+{
+  "name": "spell-checker",
+  "version": "1.0.0",
+  "description": "This is a spell-checking tool for English",
+  "main": "gui.py",
+  "scripts": {
+    "test": "python3 gui.py"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nehal2000/spell-checker.git"
+  },
+  "keywords": [
+    "Soundex_algorithm",
+    "Levenshtein_Distance",
+    "Python-Tinkter"
+  ],
+  "author": "Nehal N. Shet",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nehal2000/spell-checker/issues"
+  },
+  "homepage": "https://github.com/nehal2000/spell-checker#readme"
+}
